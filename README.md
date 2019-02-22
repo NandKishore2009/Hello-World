@@ -1,1 +1,3 @@
-# Hello-World My first file
+# maven-project
+
+Simple Maven Project
